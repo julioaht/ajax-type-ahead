@@ -1,1 +1,1 @@
-# ajax-type-ahead
+daily challenge
